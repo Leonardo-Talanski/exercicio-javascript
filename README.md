@@ -10,7 +10,7 @@ A gerente da loja pode ter acesso para cadastrar produtos no sistema somente se 
 
 A pessoa responsável pela venda dos produtos na loja só possui acesso para a visualização dos produtos.
 
-informações que são úteis e devem ser consideradas:
+**Informações que são úteis e devem ser consideradas:**
 
 Sheila é gerente e possui senha de acesso;
 
