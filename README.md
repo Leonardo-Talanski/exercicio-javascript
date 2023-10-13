@@ -23,3 +23,12 @@ A pessoa responsável pela venda dos produtos na loja só possui acesso para a v
 .O vendedor só possui acesso para a visualização dos produtos;
 
 .Somente essas duas pessoas têm acesso ao sistema;
+
+# Status do Projeto 
+
+![Badge Concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
+
+# Tecnologias Aplicadas
+
+<div style="display: inline_block"><br>
+  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
