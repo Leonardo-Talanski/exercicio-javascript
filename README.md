@@ -1,4 +1,4 @@
-<h1 align="center">Sistema de Acesso Produtos - Exercício</h1>
+<h1 align="center">Sistema de Acesso de Produtos - Exercício</h1>
 
 # Descrição
 
